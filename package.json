@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "jest-environment-jsdom": "^30.1.2",
+    "prettier": "^3.6.2"
+  }
+}
